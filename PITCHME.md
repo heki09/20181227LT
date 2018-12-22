@@ -1,66 +1,54 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
 
-@snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
-@snapend
+## 今始まるストーリー
 
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
-@snapend
+hekitter
+---
+### 自己紹介
+---
+今年の成長を一言で表すと
+
+* チャレンジ *
+---
+すごい人
+ハードル→とる
+自分
+---
+### 成果
+
+- Twitter開始 |
+- イベント・勉強会参加 |
+- イベント主催 |
+- 初LT |
+- blog開始 |
+- Podcastにゲスト出演 |
+- 合同誌寄稿 |
+---
+これからどうする？
+
+体現者
 
 ---
-@title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+### Vision
 
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
+「いいもの」を広めて、みんなが幸せになる
+---
+* 「力」＝ 思考・技術
+* 「人脈」= 仲間・同志
+* 「場」= コミュニティ・仕事
 
 ---
-@title[Tip! Fullscreen]
+### My VISION in 2019
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
+「hekitterにつづけ」といわれるように
+未来は自ら作っていく
 
----?include=template/md/split-screen/PITCHME.md
+---
 
----?include=template/md/sidebar/PITCHME.md
+> 自由にもっと輝いて
+> きらめく星のように
+> 今 始まるストーリー
+> 未来はそこにあるよ
 
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----?image=template/img/presenter.jpg
-@title[The Template Docs]
-
-@snap[north-west sign-off]
-### **Now it's @color[#e58537](your) turn.**
-<br>
-#### Quickstart your next slide deck<br>with @size[1.4em](The GitPitch Template).
-@snapend
-
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
-@snapend
+アイドルマスターSideM
+『DRIVE A LIVE』より
