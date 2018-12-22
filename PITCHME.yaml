@@ -13,7 +13,7 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : sky
 
 #
 # Theme-Override Setting
@@ -25,14 +25,14 @@ theme-override : template/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : template/img/logo.png
-logo-position : top-left
+# logo : template/img/logo.png
+# logo-position : top-left
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "エンジニアの登壇を応援する忘年LT@hekitter"
 
 #
 # Highlight (Code) Setting
@@ -52,12 +52,12 @@ layout : center
 # reason THIS VALUE SHOULD NOT BE MODIFIED. See:
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
-transition : none
+transition : true
 
 #
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch - The Quickstart Template"
-description : "High-utility markdown slide templates for GitPitch presentation authors."
+title : "今始まるストーリー"
+description : "2018.12.27開催　エンジニアの登壇を応援する忘年LT大会資料@hekitterです。"
 thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
