@@ -1,12 +1,29 @@
 
 ## 今始まるストーリー
 
-
+@snap[south-east]
+エンジニアの登壇を応援する忘年LT大会  
 2018.12.27
 hekitter
+@snapend
+
 ---
+@snap[north]
 ### 自己紹介
+@snapend
+
+@snap[west]
+* hekitter
+* エモいエンジニア見習いSIer
+* 日本酒が飲みたい
+@snapend
+
+@snap[east]
+![hekitter](template/img/hekitter.jpg)
+@snapend
+
 ---
+@snap[north]
 今年の成長を一言で表すと
 
 *チャレンジ*
