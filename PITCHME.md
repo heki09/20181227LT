@@ -45,7 +45,18 @@ __チャレンジ__
 
 
 @snap[south-east]
-<img src="template/img/kaidan_taihen_woman.png" width="50%">
+<img src="template/img/kaidan_taihen_woman.png" width="40%">
+@snapend
+
+---
+@snap[north-west]
+<img src="template/img/internet_god.png" width="50%">
+@snapend
+
+
+
+@snap[south-east]
+<img src="template/img/kaidan_woman_noboru.png" width="40%">
 @snapend
 
 ---
@@ -66,20 +77,20 @@ __チャレンジ__
 @snapend
 
 @snap[west  span-40]
-@box[bg-silver rounded](@css[text-pink text-15](越境者)#「枠」を越えて実現していく)
+@box[bg-silver rounded](@css[text-pink text-20](越境者)#「枠」を越えて実現していく)
 @snapend
 
 @snap[east span-40]
-@box[bg-silver rounded](@css[text-pink text-15](体現者)#「夢」を実現していく)
+@box[bg-silver rounded](@css[text-pink text-20](体現者)#「夢」を現実化していく)
 @snapend
 
 ---
-@snap[north span-80]
+@snap[north span-90]
 ### VISION
-「いいもの」を広めて、みんなが幸せになる
+「いいもの」を仕組化・共有して、みんなが幸せになる
 @snapend
 
-* 「力」＝ 思考・技術  |
+* 「力」= 思考・技術  |
 * 「人脈」= 仲間・同志  |
 * 「場」= コミュニティ・仕事  |
 
@@ -88,15 +99,19 @@ __チャレンジ__
 ### My VISION in 2019
 @snapend
 
-@css[text-pink](「hekitterにつづけ」)といわれるように  
-未来は自ら作っていく
+@snap[middle span-80 text-20]
+@css[text-pink](「hekitterにつづけ」)と　　
+いわれるように  
+未来を自ら形作っていく
+@snapend
 
 ---
-
+@snap[middle span-70 text-20]
 > 自由にもっと輝いて  
 > きらめく星のように  
 > 今 始まるストーリー  
 > 未来はそこにあるよ  
+@snapend
 
 @snap[south span-80]
 アイドルマスターSideM  
