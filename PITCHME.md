@@ -27,7 +27,7 @@ hekitter
 
 ---
 @snap[north]
-今年の成長を一言で表すと
+### 今年の成長を一言で表すと
 @snapend
 
 @snap[midpoint text-pink text-30 span-80]
@@ -73,7 +73,7 @@ __チャレンジ__
 - 合同誌寄稿 
 ---
 @snap[north]
-これからどうする？
+### なりたい姿
 @snapend
 
 @snap[west  span-40]
@@ -100,19 +100,18 @@ __チャレンジ__
 ### My VISION in 2019
 @snapend
 
-@snap[middle span-80 text-10]
-@css[text-pink](「hekitterにつづけ」)と　　
+@snap[middle span-80 text-13]
+@css[text-pink](「hekitterにつづけ」)と   
 いわれるように  
 未来を自ら形作っていく
 @snapend
 
 ---
-@snap[middle span-70 text-10]
+@css[ span-70 text-13]
 > 自由にもっと輝いて  
 > きらめく星のように  
 > 今 始まるストーリー  
 > 未来はそこにあるよ  
-@snapend
 
 @snap[south span-80]
 アイドルマスターSideM  
