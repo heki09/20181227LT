@@ -6,6 +6,7 @@ body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角�
 .bg-silver {background-color: silver}
 
 .text-07 { font-size: 0.7em !important; }/* 小さい */
+.text-13 { font-size: 1.3em !important; }/* ちょっと大きい */
 .text-30 { font-size: 3.0em !important; }/* 真ん中ドーン */
 
 .message-box {
