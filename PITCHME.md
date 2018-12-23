@@ -16,7 +16,7 @@ hekitter
  - hekitter  
  - エモいエンジニア見習いSIer  
  - 日本酒が飲みたい     
-   
+<br>   
  詳細は[aozora.fm](https://fortegp05.github.io/aozorafm/)  
  第7回／第8回（ゲスト出演回）へ
 @snapend
@@ -61,16 +61,16 @@ __チャレンジ__
 @snapend
 
 @snap[west  span-40]
-@box[ rounded](越境者#「枠」を越えて実現していく)
+@box[bg-gray rounded](@css[text-pink text-15](越境者)#「枠」を越えて実現していく)
 @snapend
 
 @snap[east span-40]
-@box[ rounded](体現者#「夢」を実現していく)
+@box[bg-gray rounded](@css[text-pink text-15](体現者)#「夢」を実現していく)
 @snapend
 
 ---
-@snap[noeth]
-### Vision
+@snap[north]
+### VISION
 「いいもの」を広めて、みんなが幸せになる
 @snapend
 
@@ -79,7 +79,7 @@ __チャレンジ__
 * 「場」= コミュニティ・仕事  |
 
 ---
-@snap[noeth]
+@snap[north]
 ### My VISION in 2019
 @snapend
 
@@ -87,11 +87,13 @@ __チャレンジ__
 未来は自ら作っていく
 
 ---
-@snap[north]
+
 > 自由にもっと輝いて  
 > きらめく星のように  
 > 今 始まるストーリー  
 > 未来はそこにあるよ  
-@snapend
+
+@snap[south span-80]
 アイドルマスターSideM  
 『DRIVE A LIVE』より
+@snapend
