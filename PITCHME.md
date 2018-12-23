@@ -77,17 +77,18 @@ __チャレンジ__
 @snapend
 
 @snap[west  span-40]
-@box[bg-silver rounded](@css[text-pink text-20](越境者)#「枠」を越えて実現していく)
+@box[bg-silver rounded](@css[text-pink text-20](越境者)#「枠」を越えて<br>実現していく)
 @snapend
 
 @snap[east span-40]
-@box[bg-silver rounded](@css[text-pink text-20](体現者)#「夢」を現実化していく)
+@box[bg-silver rounded](@css[text-pink text-20](体現者)#「夢」を現実化<br>していく)
 @snapend
 
 ---
 @snap[north span-90]
 ### VISION
-「いいもの」を仕組化・共有して、みんなが幸せになる
+「いいもの」を仕組化・共有して、  
+みんなが幸せになる
 @snapend
 
 * 「力」= 思考・技術  |
@@ -99,14 +100,14 @@ __チャレンジ__
 ### My VISION in 2019
 @snapend
 
-@snap[middle span-80 text-20]
+@snap[middle span-80 text-10]
 @css[text-pink](「hekitterにつづけ」)と　　
 いわれるように  
 未来を自ら形作っていく
 @snapend
 
 ---
-@snap[middle span-70 text-20]
+@snap[middle span-70 text-10]
 > 自由にもっと輝いて  
 > きらめく星のように  
 > 今 始まるストーリー  
