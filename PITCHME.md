@@ -3,8 +3,8 @@
 
 @snap[south-east]
 エンジニアの登壇を応援する忘年LT大会  
-2018.12.27
-hekitter
+2018.12.27  
+hekitter  
 @snapend
 
 ---
@@ -13,20 +13,24 @@ hekitter
 @snapend
 
 @snap[west]
-* hekitter
-* エモいエンジニア見習いSIer
-* 日本酒が飲みたい
+* hekitter  
+* エモいエンジニア見習いSIer  
+* 日本酒が飲みたい     
 @snapend
 
 @snap[east]
-![hekitter](template/img/hekitter.jpg)
+<img src="template/img/hekitter.jpg" width="70%">
 @snapend
 
 ---
 @snap[north]
-今年の成長を一言で表すと
+今年の成長を一言で表すと  |
+@snapend
 
-*チャレンジ*
+@snap[midpoint]
+_チャレンジ_
+@snapend
+
 ---
 すごい人
 ハードル→とる
