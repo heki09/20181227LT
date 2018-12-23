@@ -16,7 +16,7 @@ hekitter
  - hekitter  
  - エモいエンジニア見習いSIer  
  - 日本酒が飲みたい     
- 
+   
  詳細は[aozora.fm](https://fortegp05.github.io/aozorafm/)  
  第7回／第8回（ゲスト出演回）へ
 @snapend
@@ -30,17 +30,17 @@ hekitter
 今年の成長を一言で表すと
 @snapend
 
-@snap[midpoint text-pink text-30]
+@snap[midpoint text-pink text-30 span-80]
 __チャレンジ__
 @snapend
 
 ---
 @snap[north-west]
-<img src="template/img/internet_god.png" width="40%">
+<img src="template/img/internet_god.png" width="50%">
 @snapend
 
 @snap[south-east]
-<img src="template/img/internet_god.png" width="40%">
+<img src="template/img/kaidan_taihen_woman.png" width="40%">
 @snapend
 
 ---
@@ -56,36 +56,42 @@ __チャレンジ__
 - Podcastにゲスト出演 
 - 合同誌寄稿 
 ---
+@snap[north]
 これからどうする？
-@span[west]
-@box[](越境者#「枠」を越えて実現していく)
-@spanend
+@snapend
 
-@span[east]
-@box[](体現者#「夢」を実現していく)
-@spanend
+@snap[west  span-40]
+@box[ rounded](越境者#「枠」を越えて実現していく)
+@snapend
+
+@snap[east span-40]
+@box[ rounded](体現者#「夢」を実現していく)
+@snapend
 
 ---
-
+@snap[noeth]
 ### Vision
 「いいもの」を広めて、みんなが幸せになる
+@snapend
 
 * 「力」＝ 思考・技術  |
 * 「人脈」= 仲間・同志  |
 * 「場」= コミュニティ・仕事  |
 
 ---
+@snap[noeth]
 ### My VISION in 2019
+@snapend
 
 @css[text-pink](「hekitterにつづけ」)といわれるように  
 未来は自ら作っていく
 
 ---
-
+@snap[north]
 > 自由にもっと輝いて  
 > きらめく星のように  
 > 今 始まるストーリー  
 > 未来はそこにあるよ  
-
+@snapend
 アイドルマスターSideM  
 『DRIVE A LIVE』より

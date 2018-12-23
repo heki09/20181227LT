@@ -7,6 +7,27 @@ body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角�
 .text-05 { font-size: 0.7em !important; }/* 小さい */
 .text-30 { font-size: 3.0em !important; }/* 真ん中ドーン */
 
+.message-box {
+  width: 80%;
+  border-radius: 20px;
+  background-color: black;
+  padding: 20px 20px !important;
+}
+
+/** Boxed-Text Template Styles ***/
+
+.demo-box-text-padding #boxed-text {
+  color: #f952d8 !important; 
+  padding-top: 1.95em;
+  padding-bottom: 1.95em;
+}
+
+.demo-box-step-padding #boxed-text {
+  padding-top: 1.8em;
+  padding-bottom: 2.3em;
+}
+
+
 /* Intro Template Styles */
 
 .byline {
@@ -51,17 +72,6 @@ body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角�
   list-style-type: circle !important;
 }
 
-/** Boxed-Text Template Styles ***/
-
-.demo-box-text-padding #boxed-text {
-  padding-top: 1.95em;
-  padding-bottom: 1.95em;
-}
-
-.demo-box-step-padding #boxed-text {
-  padding-top: 1.8em;
-  padding-bottom: 2.3em;
-}
 
 /** Image Template Styles ***/
 
