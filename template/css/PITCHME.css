@@ -4,7 +4,8 @@ body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角�
 
 .text-pink   { color: #f952d8 !important; }/* 強調色 */
 
-.text-05 { font-size: 0.5em !important; }/* 小さい */
+.text-05 { font-size: 0.7em !important; }/* 小さい */
+.text-30 { font-size: 3.0em !important; }/* 真ん中ドーン */
 
 /* Intro Template Styles */
 
