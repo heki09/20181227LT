@@ -39,8 +39,13 @@ __チャレンジ__
 <img src="template/img/internet_god.png" width="50%">
 @snapend
 
+@snap[middle span-90] 
+<img src="template/img/sky_line03_cloud.png" >
+@snapend
+
+
 @snap[south-east]
-<img src="template/img/kaidan_taihen_woman.png" width="40%">
+<img src="template/img/kaidan_taihen_woman.png" width="50%">
 @snapend
 
 ---
@@ -61,15 +66,15 @@ __チャレンジ__
 @snapend
 
 @snap[west  span-40]
-@box[bg-gray rounded](@css[text-pink text-15](越境者)#「枠」を越えて実現していく)
+@box[bg-silver rounded](@css[text-pink text-15](越境者)#「枠」を越えて実現していく)
 @snapend
 
 @snap[east span-40]
-@box[bg-gray rounded](@css[text-pink text-15](体現者)#「夢」を実現していく)
+@box[bg-silver rounded](@css[text-pink text-15](体現者)#「夢」を実現していく)
 @snapend
 
 ---
-@snap[north]
+@snap[north span-80]
 ### VISION
 「いいもの」を広めて、みんなが幸せになる
 @snapend

@@ -3,6 +3,7 @@
 body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;}
 
 .text-pink   { color: #f952d8 !important; }/* 強調色 */
+.bg-gray {background-color: gray}
 
 .text-05 { font-size: 0.7em !important; }/* 小さい */
 .text-30 { font-size: 3.0em !important; }/* 真ん中ドーン */
@@ -17,7 +18,7 @@ body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角�
 /** Boxed-Text Template Styles ***/
 
 .demo-box-text-padding #boxed-text {
-  color: #f952d8 !important; 
+  
   padding-top: 1.95em;
   padding-bottom: 1.95em;
 }
