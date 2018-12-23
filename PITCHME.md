@@ -1,7 +1,7 @@
 
 ## 今始まるストーリー
 
-@snap[south-east]
+@snap[south-east text-05]
 エンジニアの登壇を応援する忘年LT大会  
 2018.12.27  
 hekitter  
@@ -13,9 +13,11 @@ hekitter
 @snapend
 
 @snap[west]
-* hekitter  
-* エモいエンジニア見習いSIer  
-* 日本酒が飲みたい     
+- hekitter  
+- エモいエンジニア見習いSIer  
+- 日本酒が飲みたい     
+ 
+ 詳細は[aozora.fm](https://fortegp05.github.io/aozorafm/) 第7回／第8回へ
 @snapend
 
 @snap[east]
@@ -24,11 +26,11 @@ hekitter
 
 ---
 @snap[north]
-今年の成長を一言で表すと  |
+今年の成長を一言で表すと
 @snapend
 
-@snap[midpoint]
-## チャレンジ
+@snap[midpoint text-pink ]
+チャレンジ
 @snapend
 
 ---
@@ -48,11 +50,12 @@ hekitter
 ---
 これからどうする？
 
-
-#### 越境者  
-「枠」をこえて実現していく 
-#### 体現者
-「夢」を実現していく
+@box[]
+(越境者.#
+「枠」を越えて実現していく)
+@box[]
+(体現者.#
+「夢」を実現していく)
 
 ---
 
