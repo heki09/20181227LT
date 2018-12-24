@@ -14,6 +14,7 @@ published : true
 # Doc: https://gitpitch.com/docs/settings/theme
 #
 theme : sky
+theme-override : template/css/PITCHME.css
 
 #
 # Theme-Override Setting
