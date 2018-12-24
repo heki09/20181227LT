@@ -51,8 +51,8 @@ __チャレンジ__
 
 ---
 @snap[north-west span-100]
-<img src="template/img/internet_god.png" width="50%">
-<img src="template/img/text_yattemiyou.png" width="45%">
+<img src="template/img/internet_god.png" width="25%">
+<img src="template/img/text_yattemiyou.png" width="20%">
 @snapend
 
 
