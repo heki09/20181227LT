@@ -1,8 +1,8 @@
----?image=template/img/arrows-1229845_1920.jpg
-@snap[bg-white]
+---?image=template/img/arrows-1229845_1920.jpg&size=80% auto
+@snap[bg-top rounded]
 ## 今始まるストーリー
 @snapend
-@snap[south-east text-07]
+@snap[south-east text-07 bg-top rounded]
 エンジニアの登壇を応援する忘年LT大会  
 2018.12.27  
 hekitter  
@@ -40,7 +40,7 @@ __チャレンジ__
 <img src="template/img/internet_god.png" width="50%">
 @snapend
 
-@snap[middle span-90] 
+@snap[midpoint span-90] 
 <img src="template/img/sky_line03_cloud.png" >
 @snapend
 
@@ -50,7 +50,7 @@ __チャレンジ__
 @snapend
 
 ---
-@snap[north-west]
+@snap[north-west span-70]
 <img src="template/img/internet_god.png" width="50%">
 <img src="template/img/text_yattemiyou.png" width="60%">
 @snapend
@@ -103,7 +103,7 @@ __チャレンジ__
 ### My VISION in 2019
 @snapend
 
-@snap[middle span-70 text-13]
+@snap[midpoint span-70 text-13]
 @css[text-pink](「hekitterにつづけ」)と  
 いわれるように  
 未来を自ら形作っていく

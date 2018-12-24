@@ -2,8 +2,9 @@
 
 body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;}
 
-.text-pink   { color: #f952d8 !important; }/* 強調色 */
+.text-pink   { color: #c2185b !important; }/* 強調色 */
 .bg-silver {background-color: silver}
+.bg-top {background-color: rgba(255,255,255,0.5);}
 
 .text-07 { font-size: 0.7em !important; }/* 小さい */
 .text-13 { font-size: 1.3em !important; }/* ちょっと大きい */
