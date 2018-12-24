@@ -59,7 +59,7 @@ Y=やったこと
 出来事です！！  
 @snapend
 ---
-@snap[midpoint text-20 span-80 text-pink] 
+@snap[midpoint text-30 span-80 text-pink] 
 マジほめて！！
 @snapend
 
@@ -154,10 +154,11 @@ T=つぎにやること
 
 @snap[north span-80]
 ### なりたい自分とは？  
+思考に限界を設けず、達成していき、<br>
+みんなに活力を与えられる人  
 @snapend
 
-- 考えに限界を設けず、達成していく人  
-- みんなに活力を与えられる人
+
 
 @snap[west  span-40 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](越境者)#「枠」を越えて<br>実現していく)
@@ -177,9 +178,23 @@ T=つぎにやること
 @snap[midpoint span-70 text-13]
 @css[text-pink](「hekitterにつづけ」)と  
 いわれるように  
-TRY&ERRORを  
-くりかえしていく
+これからもどんどん  
+yatteiki！！
 @snapend
+
+---
+@snap[north]
+### 要するに
+@snapend
+
+@snap[east span-40 fragment]
+@box[bg-silver rounded](@css[text-pink text-20](2018年)#ステージング)
+@snapend
+
+@snap[east span-40 fragment]
+@box[bg-silver rounded](@css[text-pink text-20](2019年)#コミット)
+@snapend
+
 
 ---?image=template/img/live-concert-388160_1920.jpg
 @snap[north bg-top]
