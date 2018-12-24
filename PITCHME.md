@@ -1,4 +1,4 @@
----?image=template/img/arrows-1229845_1920.jpg&size=80% auto
+---?image=template/img/arrows-1229845_1920.jpg&size=contain
 @snap[bg-top rounded]
 ## 今始まるストーリー
 @snapend
