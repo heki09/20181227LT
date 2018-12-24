@@ -1,4 +1,4 @@
-
+---?image=template/img/arrows-1229845_1920.jpg
 ## 今始まるストーリー
 
 @snap[south-east text-07]
@@ -26,7 +26,7 @@ hekitter
 @snapend
 
 ---
-@snap[north]
+@snap[north  span-90]
 ### 今年の成長を一言で表すと
 @snapend
 
@@ -45,7 +45,7 @@ __チャレンジ__
 
 
 @snap[south-east]
-<img src="template/img/kaidan_taihen_woman.png" width="40%">
+<img src="template/img/kaidan_taihen_woman.png" width="35%">
 @snapend
 
 ---
@@ -53,6 +53,9 @@ __チャレンジ__
 <img src="template/img/internet_god.png" width="50%">
 @snapend
 
+@snap[north]
+<img src="template/img/text_yattemiyou.png" width="40%">
+@snapend
 
 
 @snap[south-east]
@@ -101,13 +104,13 @@ __チャレンジ__
 @snapend
 
 @snap[middle span-80 text-13]
-@css[text-pink](「hekitterにつづけ」)と   
+@css[text-pink](「hekitterにつづけ」)と  
 いわれるように  
 未来を自ら形作っていく
 @snapend
 
----
-@css[ span-70 text-13]
+---?image=template/img/live-concert-388160_1920.jpg
+@css[span-70 text-13]
 > 自由にもっと輝いて  
 > きらめく星のように  
 > 今 始まるストーリー  

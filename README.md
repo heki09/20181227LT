@@ -1,6 +1,6 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/gitpitch/the-template)
+[![今始まるストーリー](https://gitpitch.com/heki09/20181227LT/master)](https://gitpitch.com/heki09/20181227LT/master)
 
-# GitPitch - The Template
+# https://gitpitch.com/heki09/20181227LT/master
 
 *THE FASTEST WAY FROM IDEA TO PRESENTATION*
 
