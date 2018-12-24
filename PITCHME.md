@@ -31,14 +31,14 @@ hekitter
 @snapend
 
 
-- Y=やったこと 
-- W=わかったこと 
-- T=つぎにやること 
+1. Y=やったこと 
+2. W=わかったこと 
+.3/- T=つぎにやること 
 
 
 ---
 @snap[midpoint text-20 span-80]
-Y=やったこと
+1. Y=やったこと
 @snapend
 
 ---
@@ -66,7 +66,7 @@ Y=やったこと
 ---
 
 @snap[midpoint text-20 span-80]
-W=わかったこと
+2. W=わかったこと
 @snapend
 
 ---
@@ -117,7 +117,7 @@ W=わかったこと
 ---
 
 @snap[midpoint text-20 span-80]
-T=つぎにやること
+3. T=つぎにやること
 @snapend
 
 ---
@@ -181,21 +181,13 @@ T=つぎにやること
 これからもどんどん  
 @snapend
 
-@snap[south text-20 span-60 fragment]
-yatteiki！！
-@snapend
+
+
 
 ---
-@snap[north]
-### 要するに
-@snapend
 
-@snap[west span-40 fragment]
-@box[bg-silver rounded](@css[text-pink text-20](2018年)#ステージング)
-@snapend
-
-@snap[east span-40 fragment]
-@box[bg-silver rounded](@css[text-pink text-20](2019年)#コミット)
+@snap[midpoint text-20 span-80]
+yatteiki！！
 @snapend
 
 
