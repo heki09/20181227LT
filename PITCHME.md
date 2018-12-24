@@ -1,4 +1,6 @@
 ---?image=template/img/arrows-1229845_1920.jpg&size=auto
+<link href="https://fonts.googleapis.com/css?family=M+PLUS+1p&amp;subset=japanese" rel="stylesheet">
+
 @snap[bg-top rounded]
 ## 今始まるストーリー
 @snapend
@@ -31,9 +33,9 @@ hekitter
 @snapend
 
 
-1.Y=やったこと  
-2.W=わかったこと  
-3.T=つぎにやること  
+1. Y=やったこと  
+2. W=わかったこと  
+3. T=つぎにやること  
 
 
 ---
