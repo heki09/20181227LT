@@ -1,6 +1,7 @@
 ---?image=template/img/arrows-1229845_1920.jpg
+@snap[bg-white]
 ## 今始まるストーリー
-
+@snapend
 @snap[south-east text-07]
 エンジニアの登壇を応援する忘年LT大会  
 2018.12.27  
@@ -51,11 +52,10 @@ __チャレンジ__
 ---
 @snap[north-west]
 <img src="template/img/internet_god.png" width="50%">
+<img src="template/img/text_yattemiyou.png" width="60%">
 @snapend
 
-@snap[north]
-<img src="template/img/text_yattemiyou.png" width="40%">
-@snapend
+
 
 
 @snap[south-east]
@@ -103,7 +103,7 @@ __チャレンジ__
 ### My VISION in 2019
 @snapend
 
-@snap[middle span-80 text-13]
+@snap[middle span-70 text-13]
 @css[text-pink](「hekitterにつづけ」)と  
 いわれるように  
 未来を自ら形作っていく
@@ -116,7 +116,7 @@ __チャレンジ__
 > 今 始まるストーリー  
 > 未来はそこにあるよ  
 
-@snap[south span-80]
+@snap[south span-80 text-white]
 アイドルマスターSideM  
 『DRIVE A LIVE』より
 @snapend
