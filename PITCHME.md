@@ -31,9 +31,9 @@ hekitter
 @snapend
 @snap[midpoint span-80]
 
-- Y=やったこと  
-- W=わかったこと  
-- T=つぎにやること  
+- Y=やったこと 
+- W=わかったこと 
+- T=つぎにやること 
 
 @snapend
 
@@ -77,9 +77,8 @@ W=わかったこと
 
 @snap[midpoint span-80]
 
-- チャレンジすることは楽しい  
-- チャレンジすると優しい世界がある
-
+* チャレンジすることは楽しい |
+* チャレンジすると優しい世界がある 
 @snapend
 
 ---
@@ -129,27 +128,27 @@ T=つぎにやること
 ### つぎにやること
 @snapend
 
-@css[text-15](自分の行動で)
- * 素敵な世界を作る  
+@css[text-13](自分の行動で)
+ * 素敵な世界を作る  |
  * なりたい自分を作る  
 ---
  
 @snap[north span-90]
 ### 素敵な世界とは？
-「いいもの」を仕組化・共有して、  
+「いいもの」を仕組化・共有して、   
 みんなで幸せになる
 @snapend
 
 @snap[west  span-30 fragment]
-@box[bg-silver rounded](@css[text-pink text-20](力)#思考・技術)
+@box[bg-silver rounded](@css[text-pink text-20](力)#思考・技術<br>)
 @snapend
  
 @snap[midpoint  span-30 fragment]
-@box[bg-silver rounded](@css[text-pink text-20](人脈)#仲間・同志)
+@box[bg-silver rounded](@css[text-pink text-20](人脈)#仲間・同志<br>)
 @snapend
  
 @snap[east  span-30 fragment]
-@box[bg-silver rounded](@css[text-pink text-20](場)#コミュニティ・仕事)
+@box[bg-silver rounded](@css[text-pink text-20](場)#コミュニティ<br>・仕事)
 @snapend
 
 
@@ -159,7 +158,7 @@ T=つぎにやること
 @snap[north span-80]
 ### なりたい自分とは？  
 
-- 考えに限界を設けず、達成していく人  
+- 考えに限界を設けず、達成していく人 
 - みんなに活力を与えられる人
 @snapend
 
