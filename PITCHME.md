@@ -59,7 +59,7 @@ Y=やったこと
 出来事です！！  
 @snapend
 ---
-@snap[midpoint text-30 span-80 text-pink] 
+@snap[midpoint text-30 span-100 text-pink] 
 マジほめて！！
 @snapend
 
@@ -177,8 +177,11 @@ T=つぎにやること
 
 @snap[midpoint span-70 text-13]
 @css[text-pink](「hekitterにつづけ」)と  
-いわれるように  
+いわれるくらい  
 これからもどんどん  
+@snapend
+
+@snap[south text-20 span-60 fragment]
 yatteiki！！
 @snapend
 
@@ -187,7 +190,7 @@ yatteiki！！
 ### 要するに
 @snapend
 
-@snap[east span-40 fragment]
+@snap[west span-40 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](2018年)#ステージング)
 @snapend
 
