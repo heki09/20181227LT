@@ -31,9 +31,9 @@ hekitter
 @snapend
 @snap[midpoint span-80]
 
- - Y=やったこと  
- - W=わかったこと  
- - T=つぎにやること  
+- Y=やったこと  
+- W=わかったこと  
+- T=つぎにやること  
 
 @snapend
 
@@ -56,8 +56,14 @@ Y=やったこと
 - 合同誌寄稿 
 ---
 @snap[midpoint text-20 span-80]
-全部10月以降の出来事です！！
+全部10月以降の  
+出来事です！！  
 @snapend
+---
+@snap[midpoint text-20 span-80 text-pink] 
+マジほめて！！
+@snapend
+
 ---
 
 @snap[midpoint text-20 span-80]
@@ -123,7 +129,7 @@ T=つぎにやること
 ### つぎにやること
 @snapend
 
-自分の行動で
+@css[text-15](自分の行動で)
  * 素敵な世界を作る  
  * なりたい自分を作る  
 ---
@@ -131,18 +137,18 @@ T=つぎにやること
 @snap[north span-90]
 ### 素敵な世界とは？
 「いいもの」を仕組化・共有して、  
-みんなが幸せになる
+みんなで幸せになる
 @snapend
 
-@snap[west  span-40 fragment]
+@snap[west  span-30 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](力)#思考・技術)
 @snapend
  
-@snap[midpoint  span-40 fragment]
+@snap[midpoint  span-30 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](人脈)#仲間・同志)
 @snapend
  
-@snap[midpoint  span-40 fragment]
+@snap[east  span-30 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](場)#コミュニティ・仕事)
 @snapend
 
@@ -152,8 +158,9 @@ T=つぎにやること
 
 @snap[north span-80]
 ### なりたい自分とは？  
- - 考えに限界を設けず、達成していく人  
- - みんなに活力を与えられる人
+
+- 考えに限界を設けず、達成していく人  
+- みんなに活力を与えられる人
 @snapend
 
 @snap[west  span-40 fragment]
@@ -174,7 +181,8 @@ T=つぎにやること
 @snap[midpoint span-70 text-13]
 @css[text-pink](「hekitterにつづけ」)と  
 いわれるように  
-未来を自ら形作っていく
+TRY&ERRORを  
+くりかえしていく
 @snapend
 
 ---?image=template/img/live-concert-388160_1920.jpg
