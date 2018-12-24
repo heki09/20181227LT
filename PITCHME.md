@@ -1,4 +1,4 @@
----?image=template/img/arrows-1229845_1920.jpg&size=contain
+---?image=template/img/arrows-1229845_1920.jpg&size=auto
 @snap[bg-top rounded]
 ## 今始まるストーリー
 @snapend
@@ -50,9 +50,9 @@ __チャレンジ__
 @snapend
 
 ---
-@snap[north-west span-70]
+@snap[north-west span-100]
 <img src="template/img/internet_god.png" width="50%">
-<img src="template/img/text_yattemiyou.png" width="60%">
+<img src="template/img/text_yattemiyou.png" width="45%">
 @snapend
 
 
