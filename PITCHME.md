@@ -29,13 +29,12 @@ hekitter
 @snap[north  span-90]
 ### YWTでふりかえろう
 @snapend
-@snap[midpoint span-80]
+
 
 - Y=やったこと 
 - W=わかったこと 
 - T=つぎにやること 
 
-@snapend
 
 ---
 @snap[midpoint text-20 span-80]
@@ -75,11 +74,9 @@ W=わかったこと
 ### わかったこと
 @snapend
 
-@snap[midpoint span-80]
 
 * チャレンジすることは楽しい |
-* チャレンジすると優しい世界がある 
-@snapend
+* チャレンジすると優しい世界がある |
 
 ---
 @snap[north  span-60]
@@ -130,12 +127,12 @@ T=つぎにやること
 
 @css[text-13](自分の行動で)
  * 素敵な世界を作る  |
- * なりたい自分を作る  
+ * なりたい自分を作る  |
 ---
  
 @snap[north span-90]
 ### 素敵な世界とは？
-「いいもの」を仕組化・共有して、   
+「いいもの」を仕組化・共有して、<br>
 みんなで幸せになる
 @snapend
 
@@ -148,7 +145,7 @@ T=つぎにやること
 @snapend
  
 @snap[east  span-30 fragment]
-@box[bg-silver rounded](@css[text-pink text-20](場)#コミュニティ<br>・仕事)
+@box[bg-silver rounded](@css[text-pink text-20](場)#コミュニティ)
 @snapend
 
 
@@ -157,10 +154,10 @@ T=つぎにやること
 
 @snap[north span-80]
 ### なりたい自分とは？  
-
-- 考えに限界を設けず、達成していく人 
-- みんなに活力を与えられる人
 @snapend
+
+- 考えに限界を設けず、達成していく人  
+- みんなに活力を与えられる人
 
 @snap[west  span-40 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](越境者)#「枠」を越えて<br>実現していく)
