@@ -1,6 +1,6 @@
 /* my custom */
 
-body  {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; !important}
+.reveal code   {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; !important}
 .text-pink   { color: #c2185b !important; }/* 強調色 */
 .bg-silver {background-color: silver}
 .bg-top {background-color: rgba(255,255,255,0.7);}
