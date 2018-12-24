@@ -1,8 +1,10 @@
-[![今始まるストーリー](https://gitpitch.com/heki09/20181227LT/master)](https://gitpitch.com/heki09/20181227LT/master)
+???????????????LT??????(https://techplay.jp/event/705867)](https://gitpitch.com/heki09/20181227LT/master)
 
 # https://gitpitch.com/heki09/20181227LT/master
 
-*THE FASTEST WAY FROM IDEA TO PRESENTATION*
+*?????????*
 
-For details, see the complete template documentation [here](https://gitpitch.com/docs/the-template).
+2018.12.27??[???????????????LT??](https://techplay.jp/event/705867)?
+LT?????
+[@hekitter](https://twitter.com/hekitter)
 

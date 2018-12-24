@@ -14,7 +14,7 @@ hekitter
 @snapend
 
 @snap[west]
- - hekitter  
+ - [hekitter](https://twitter.com/hekitter)  
  - エモいエンジニア見習いSIer  
  - 日本酒が飲みたい     
 <br>   
@@ -25,17 +25,51 @@ hekitter
 @snap[east]
 <img src="template/img/hekitter.jpg" width="70%">
 @snapend
+---
+@snap[north  span-90]
+### YWTでふりかえろう
+@snapend
+@snap[midpoint span-80]
+- Y=やったこと
+- W=わかったこと
+- T=つぎにやること
+@snapend
+
+---
+@snap[midpoint text-30 span-80]
+Y=やったこと
+@snapend
+
+---
+@snap[north]
+### やったこと
+@snapend
+
+- Twitter開始 
+- イベント・勉強会参加 
+- イベント主催 
+- 初LT 
+- [blog](https://hekitter.hatenablog.com/)開始 
+- Podcastにゲスト出演 
+- 合同誌寄稿 
+---
+
+@snap[midpoint text-30 span-80]
+W=わかったこと
+@snapend
 
 ---
 @snap[north  span-90]
-### 今年の成長を一言で表すと
+### わかったこと
 @snapend
 
-@snap[midpoint text-pink text-30 span-80]
-__チャレンジ__
+@snap[midpoint span-80]
+* チャレンジすることは楽しい  
+* チャレンジすると優しい世界がある
 @snapend
 
 ---
+### 見えない天上界
 @snap[north-west]
 <img src="template/img/internet_god.png" width="50%">
 @snapend
@@ -50,9 +84,10 @@ __チャレンジ__
 @snapend
 
 ---
+### やればできる
 @snap[north-west span-100]
-<img src="template/img/internet_god.png" width="25%">
-<img src="template/img/text_yattemiyou.png" width="20%">
+<img src="template/img/internet_god.png" width="30%">
+<img src="template/img/text_yattemiyou.png" width="30%">
 @snapend
 
 
@@ -62,45 +97,62 @@ __チャレンジ__
 <img src="template/img/kaidan_woman_noboru.png" width="40%">
 @snapend
 
+
 ---
-@snap[north]
-### 成果
+
+@snap[midpoint text-30 span-80]
+T=つぎにやること
 @snapend
 
-- Twitter開始 
-- イベント・勉強会参加 
-- イベント主催 
-- 初LT 
-- blog開始 
-- Podcastにゲスト出演 
-- 合同誌寄稿 
 ---
 @snap[north]
-### なりたい姿
+### つぎにやること
 @snapend
 
-@snap[west  span-40]
+自分の行動で
+ * 素敵な世界を作る  
+ * なりたい自分を作る  
+ ---
+ @snap[north span-90]
+ ### 素敵な世界とは？
+ 「いいもの」を仕組化・共有して、  
+ みんなが幸せになる
+ @snapend
+
+ @snap[west  span-40 fragment]
+ @box[bg-silver rounded](@css[text-pink text-20](力)#思考・技術)
+ @snapend
+ 
+ @snap[midpoint  span-40 fragment]
+ @box[bg-silver rounded](@css[text-pink text-20](人脈)#仲間・同志)
+ @snapend
+ 
+ @snap[midpoint  span-40 fragment]
+ @box[bg-silver rounded](@css[text-pink text-20](場)#コミュニティ・仕事)
+ @snapend
+
+
+ 
+---
+@snap[north]
+### なりたい自分とは？
+- 考えに限界を設けず、達成していく人
+- みんなに活力を与えられる人
+@snapend
+
+@snap[west  span-40 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](越境者)#「枠」を越えて<br>実現していく)
 @snapend
 
-@snap[east span-40]
+@snap[east span-40 fragment]
 @box[bg-silver rounded](@css[text-pink text-20](体現者)#「夢」を現実化<br>していく)
 @snapend
 
----
-@snap[north span-90]
-### VISION
-「いいもの」を仕組化・共有して、  
-みんなが幸せになる
-@snapend
 
-* 「力」= 思考・技術  |
-* 「人脈」= 仲間・同志  |
-* 「場」= コミュニティ・仕事  |
 
 ---
 @snap[north]
-### My VISION in 2019
+### hekitterの2019年
 @snapend
 
 @snap[midpoint span-70 text-13]
@@ -110,6 +162,8 @@ __チャレンジ__
 @snapend
 
 ---?image=template/img/live-concert-388160_1920.jpg
+### さいごに
+
 @css[span-70 text-13]
 > 自由にもっと輝いて  
 > きらめく星のように  
