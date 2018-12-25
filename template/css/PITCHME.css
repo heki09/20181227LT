@@ -1,8 +1,8 @@
 /* my custom */
 
-.reveal    {font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro', 'Hirno Kaku Gothic Pro', メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; !important}
+.reveal    {font-family:  メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif !important;}
 .text-pink   { color: #c2185b !important; }/* 強調色 */
-.bg-silver {background-color: silver}
+.bg-silver {background-color: #f2f2f2}
 .bg-top {background-color: rgba(255,255,255,0.7);}
 
 .text-07 { font-size: 0.7em !important; }/* 小さい */
@@ -256,7 +256,7 @@ div.docslink a:hover {
     width: 100%;
     padding: 17px;
     border-radius: 17px;
-    background: rgba(255,255,255,0.5);
+    background: rgba(255,255,255,0.7);
 }
 
 .reveal p span.slide-title {
